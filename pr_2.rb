@@ -1,3 +1,4 @@
+# 2.From an array containing integers, strings and floats, make three lists to store them separately.
 arr = [10,10.5,"Pratham"]
 a_I = []
 a_S = []
