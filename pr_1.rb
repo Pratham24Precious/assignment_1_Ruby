@@ -1,3 +1,5 @@
+# 1. From the two arrays obtained in the previous question, make new lists, containing only numbers which are divisible by 4, 6, 8, 10, 3, 5, 7 and 9 in separate lists.
+
 #method : 1
 arr1 = [23,33,11,16,12,15]
 arr2 = [56,44,34,3,5,8,10]
