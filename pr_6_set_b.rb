@@ -1,3 +1,7 @@
+# 6. WAP to delete all of the strings that begin with an "s" and "w" in 
+# the following array.
+#     arr = ['snow', 'winter', 'ice', 'slippery', 'salted roads', 'white 
+# trees']
 arr = ['snow','winter','ice','slippery','salted roads','white trees']
 new_arr = []
 arr.each do |word|
