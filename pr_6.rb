@@ -1,3 +1,4 @@
+# 6.From the previous question, sort according to the number of letters.
 word = "MISSISSIPPI"
 m_count = 0
 i_count = 0
