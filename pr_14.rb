@@ -1,14 +1,15 @@
-$PIE = 3.14
+# 14. Create a Cricle class and intialize it with radius. Make two methods getArea and getCircumference inside this class.
+$pie = 3.14
 class Circle
     def initialize(radius)
         @radius = radius
     end
     def getArea()
-        area = $PIE*@radius*@radius
+        area = $pie*@radius*@radius
     return area
     end
     def getCircumference()
-        circum = 2*$PIE*@radius
+        circum = 2*$pie*@radius
     return circum
     end
 end
