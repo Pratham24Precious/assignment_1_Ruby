@@ -1,3 +1,4 @@
+# 3.Take inputs from the user to make an array. Again take one input from the user and search it in the array and delete that element, if found.
 puts "enter array elements"
 arr = gets.chomp.split
 puts "enter element to be searched for deletion"
