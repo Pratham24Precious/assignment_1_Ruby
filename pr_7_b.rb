@@ -1,3 +1,9 @@
+#     b.
+#       *
+#      ***
+#     *****
+#      ***
+#       *
 num = gets.to_i
 space = num/2
 for i in 1..num
