@@ -1,3 +1,4 @@
+# 5. Count the number of occurrences of each letter in the word "MISSISSIPPI". Store count of every letter with the letter in a dictionary.
 word = "MISSISSIPPI"
 m_count = 0
 i_count = 0
