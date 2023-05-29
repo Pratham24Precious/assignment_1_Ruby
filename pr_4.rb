@@ -1,3 +1,4 @@
+# 4.Use hash to store antonyms of words. E.g.- 'Right'=>'Left', 'Up'=>'Down', etc. Display all words and then ask the user to enter a word and display an antonym of it.
 words = Hash.new
 words = {"right" => "left","up" => "down"}
 puts words
